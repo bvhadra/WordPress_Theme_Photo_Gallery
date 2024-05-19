@@ -1,0 +1,1 @@
+<h4>A custom advanced WordPress theme which I built from scratch. It is a specialist website theme for photo gallery. It includes the wordpress file structure with PHP programming for header, footer, nav bar, menu, main conetent, various categories for photos, display of photos as thumbnails, and full size photos with descriptions and styling.</h4>
